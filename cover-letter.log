@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  9 SEP 2023 19:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  11 SEP 2023 19:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -435,19 +435,19 @@ Package hyperref Info: Link coloring OFF on input line 134.
 \openout3 = `cover-letter.out'.
 
 
-/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/cover-letter.tex:140: Missing number, treated as zero.
+/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/cover-letter.tex:139: Missing number, treated as zero.
 <to be read again> 
                    \protect 
-l.140     \Large \textwidth \textsl
+l.139     \large \textwidth \textsl
                                    {Software Engineering Student}\\
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/cover-letter.tex:140: Illegal unit of measure (pt inserted).
+/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/cover-letter.tex:139: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \protect 
-l.140     \Large \textwidth \textsl
+l.139     \large \textwidth \textsl
                                    {Software Engineering Student}\\
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -456,30 +456,26 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 144.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 143.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-contour: Using 16 copies for `linkedin.com/in/kieranhulsman' on input line 144.
-contour: Using 16 copies for `github.com/Kieran-Hulsman' on input line 146.
-contour: Using 16 copies for `kieran.hulsman@uwaterloo.ca' on input line 148.
-contour: Using 16 copies for `kieranhulsman.com' on input line 150.
-/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/cover-letter.tex:155: Misplaced \noalign.
+/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/cover-letter.tex:154: Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.155 \hline
+l.154 \hline
             
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/cover-letter.tex:174: LaTeX Error: There's no line here to end.
+/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/cover-letter.tex:173: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \\
+l.173 \\
          \vspace{4pt}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -488,7 +484,7 @@ or  <return>  to continue without it.
 <signature.png, id=8, 1131.22626pt x 898.35625pt>
 File: signature.png Graphic file (type png)
 <use signature.png>
-Package pdftex.def Info: signature.png  used on input line 175.
+Package pdftex.def Info: signature.png  used on input line 174.
 (pdftex.def)             Requested size: 56.56462pt x 44.92044pt.
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -508,15 +504,15 @@ Package rerunfilecheck Info: Checksums for `cover-letter.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15579 strings out of 476025
- 269122 string characters out of 5790017
- 1872388 words of memory out of 5000000
- 35839 multiletter control sequences out of 15000+600000
+ 15554 strings out of 476025
+ 268887 string characters out of 5790017
+ 1857388 words of memory out of 5000000
+ 35814 multiletter control sequences out of 15000+600000
  514265 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,624b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,523b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on cover-letter.pdf (1 page, 174052 bytes).
+Output written on cover-letter.pdf (1 page, 173953 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
