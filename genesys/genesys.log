@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  18 SEP 2023 23:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  19 SEP 2023 00:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/ford/ford"
-(/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/ford/ford.tex
+**"/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/genesys/genesys"
+(/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/genesys/genesys.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -312,7 +312,7 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \mc@col@check@num=\count285
 )
 
-/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/ford/ford.tex:23: Package fontawesome5 Error: Incompatible version of Font Awesome already
+/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/genesys/genesys.tex:23: Package fontawesome5 Error: Incompatible version of Font Awesome already
 (fontawesome5)                loaded
 
 For immediate help type H <return>.
@@ -390,8 +390,8 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \Gin@req@height=\dimen171
 \Gin@req@width=\dimen172
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
-No file ford.aux.
-\openout1 = `ford.aux'.
+No file genesys.aux.
+\openout1 = `genesys.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
 LaTeX Font Info:    ... okay on input line 134.
@@ -432,10 +432,10 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 134.
 \@outlinefile=\write3
-\openout3 = `ford.out'.
+\openout3 = `genesys.out'.
 
 
-/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/ford/ford.tex:139: Missing number, treated as zero.
+/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/genesys/genesys.tex:139: Missing number, treated as zero.
 <to be read again> 
                    \protect 
 l.139     \large \textwidth \textsl
@@ -444,7 +444,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/ford/ford.tex:139: Illegal unit of measure (pt inserted).
+/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/genesys/genesys.tex:139: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \protect 
 l.139     \large \textwidth \textsl
@@ -460,7 +460,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inpu
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/ford/ford.tex:154: Misplaced \noalign.
+/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/genesys/genesys.tex:154: Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
 l.154 \hline
@@ -469,7 +469,7 @@ I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/ford/ford.tex:176: LaTeX Error: There's no line here to end.
+/Users/kieranhulsman/Documents/waterloo/*co-op/co-op 2/cover-letter/genesys/genesys.tex:176: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -493,26 +493,26 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc} <../signature.png>] (./ford.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc} <../signature.png>] (./genesys.aux)
 
-Package rerunfilecheck Warning: File `ford.out' has changed.
+Package rerunfilecheck Warning: File `genesys.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `ford.out':
+Package rerunfilecheck Info: Checksums for `genesys.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  15555 strings out of 476025
- 268835 string characters out of 5790017
- 1858388 words of memory out of 5000000
+ 268877 string characters out of 5790017
+ 1859388 words of memory out of 5000000
  35814 multiletter control sequences out of 15000+600000
  514265 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,520b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,526b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on ford.pdf (1 page, 174155 bytes).
+Output written on genesys.pdf (1 page, 174690 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
